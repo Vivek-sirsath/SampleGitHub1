@@ -10,6 +10,10 @@ public class A {
 		int a = 10;
 		int b = 5;
 		System.out.println(a+b);
+		
+		int x = 50;
+		int y = 20;
+		system.out.println(x-y);
 
 	}
 
