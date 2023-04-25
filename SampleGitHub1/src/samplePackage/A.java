@@ -6,6 +6,10 @@ public class A {
 		
 		System.out.println("Hello GitHub");
 		System.out.println("Hello Java");
+		
+		int a = 10;
+		int b = 5;
+		System.out.println(a+b);
 
 	}
 
