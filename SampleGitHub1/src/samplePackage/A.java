@@ -13,7 +13,7 @@ public class A {
 		
 		int x = 50;
 		int y = 20;
-		system.out.println(x-y);
+		System.out.println(x-y);
 		
 		int p = 4;
 		int q = 2;
