@@ -18,6 +18,10 @@ public class A {
 		int p = 4;
 		int q = 2;
 		System.out.println(p/q);
+		
+		int m = 10;
+		int n = 10;
+		System.out.println(m*n);
 
 	}
 
