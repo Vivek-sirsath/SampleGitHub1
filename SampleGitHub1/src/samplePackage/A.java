@@ -7,11 +7,11 @@ public class A {
 		System.out.println("Hello GitHub");
 		System.out.println("Hello Java");
 		
-		int a = 20;
-		int b = 10;
+		int a = 900;
+		int b = 384;
 		System.out.println(a+b);
 		
-		int x = 500;
+		int x = 50;
 		int y = 20;
 		System.out.println(x-y);
 		
