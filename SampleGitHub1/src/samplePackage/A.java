@@ -24,7 +24,7 @@ public class A {
 		System.out.println(m*n);
 		
 		
-		 m = 10000;
+		 m = 500;
 		 n = 15;
 		System.out.println(m*n);
 
