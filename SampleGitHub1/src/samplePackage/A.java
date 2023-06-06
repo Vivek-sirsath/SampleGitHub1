@@ -22,11 +22,12 @@ public class A {
 		int m = 10;
 		int n = 10;
 		System.out.println(m*n);
-		
-		
-		 m = 500;
-		 n = 15;
+				
+		 m = 200;
+		 n = 10;
 		System.out.println(m*n);
+		
+		
 
 	}
 
