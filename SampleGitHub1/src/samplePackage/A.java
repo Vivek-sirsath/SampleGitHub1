@@ -26,8 +26,7 @@ public class A {
 		 m = 200;
 		 n = 10;
 		System.out.println(m*n);
-		
-		
+				
 
 	}
 
