@@ -23,7 +23,7 @@ public class A {
 		int n = 10;
 		System.out.println(m*n);
 				
-		int k = 100;
+		int k = 150;
 		int h = 10;
 		System.out.println(k*h);
 				
