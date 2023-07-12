@@ -19,8 +19,8 @@ public class A {
 		int q = 2;
 		System.out.println(p/q);
 		
-		int m = 10;
-		int n = 10;
+		int m = 80;
+		int n = 20;
 		System.out.println(m*n);
 				
 		int k = 150;
